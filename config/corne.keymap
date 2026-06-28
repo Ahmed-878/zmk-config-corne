@@ -56,7 +56,7 @@
 
 &kp LSHIFT  &kp Z  &kp X  &kp C         &kp V          &kp B             &kp N          &kp M          &kp COMMA  &kp DOT  &kp FSLH  &kp LSHIFT
 
-                          &kp LEFT_GUI  &mo 2          &mo 3             &bhm_space_sym 3 SPACE &kp LCTRL   &mo 1
+                          &mo 2         &kp LEFT_GUI   &mo 3             &bhm_space_sym 3 SPACE &kp LCTRL   &mo 1
             >;
         };
 
